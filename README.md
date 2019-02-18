@@ -2,8 +2,8 @@
 ## Description:
 The main purpose of the project is to **detect arrow directions and follow it**, using **python Open CV** library and Arduino to control the directions of the motors, using bluetooth **serial communication** between them.
 Small application of a **Self-Driving Car.** 
-## Video: 
-
+## Video:
+https://www.youtube.com/watch?v=mrij6eFVkPQ&feature=youtu.be
 ## Software:
 **Python**, Which include Open CV, Numpy, and Pyserial libraries.
 **Arduino IDE** for controlling the motion of the motors.
