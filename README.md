@@ -1,5 +1,5 @@
 # Arrow-Follower-Robot-Car
-## Describtion:
+## Description:
 The main purpose of the project is to **detect arrow directions and follow it**, using **python Open CV** library and Arduino to control the directions of the motors, using bluetooth **serial communication** between them.
 Small application of a **Self-Driving Car.** 
 ## Video: 
